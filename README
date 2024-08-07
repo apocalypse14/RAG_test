@@ -1,6 +1,9 @@
-https://python.langchain.com/v0.2/docs/how_to/markdown_header_metadata_splitter/#:
+Here are some internet sources I have used:
+1) https://python.langchain.com/v0.2/docs/how_to/markdown_header_metadata_splitter/#:
 ~:text=For%20example%2C%20a%20markdown%20file,a%20specified%20set%20of%20headers.
 
-https://api.python.langchain.com/en/v0.1/langchain_api_reference.html#module-langchain.chains
+2) https://api.python.langchain.com/en/v0.1/langchain_api_reference.html#module-langchain.chains
 
-https://python.langchain.com/v0.2/docs/tutorials/rag/
+3) https://python.langchain.com/v0.2/docs/tutorials/rag/
+
+This code implements RAG principles extract information from a MarkDown file. However, the output is not tested, as there are token limitations imposed by OpenAI.
